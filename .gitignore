@@ -5,7 +5,6 @@ venv/
 .env
 # Jetson / docker
 *.log
-docker-compose.override.yml
 # IDE
 .vscode/
 .idea/
